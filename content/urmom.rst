@@ -1,12 +1,12 @@
-My super title
+Testing pelican_youtube
 ##############
 
-:date: 2010-10-03 10:20
-:tags: thats, awesome
-:category: yeah
-:slug: my-super-post
-:author: Alexis Metaireau
-:summary: Short version for index and feeds
+:date: 2013-08-24 02:45
+:tags: random, poo
+:category: test
+:slug: sum-shit
+:author: bsdlp
+:summary: Some shiz.
 
 Herp a derp.
 
