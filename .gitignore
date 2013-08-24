@@ -1,5 +1,6 @@
 env
 *.pid
+output
 
 *.py[cod]
 
