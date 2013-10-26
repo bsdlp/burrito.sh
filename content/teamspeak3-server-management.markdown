@@ -1,7 +1,7 @@
 Title: Teamspeak3 server management
 Date: 2012-03-29 20:07
 Author: jchen
-Category: server admin, telnet, tutorial
+Category:
 Slug: teamspeak3-server-management
 
 So I've been hosting some friends' teamspeak3 servers on the extra

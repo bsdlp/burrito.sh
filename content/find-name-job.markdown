@@ -1,7 +1,7 @@
 Title: find / -name job
 Date: 2012-03-20 17:26
 Author: jchen
-Category: Uncategorized
+Category:
 Slug: find-name-job
 
 So the summer job hunt officially begins for me this spring break. Over

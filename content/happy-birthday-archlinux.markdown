@@ -1,7 +1,7 @@
 Title: happy birthday archlinux
 Date: 2012-03-11 11:21
 Author: jchen
-Category: linux
+Category:
 Slug: happy-birthday-archlinux
 
 Good ole archlinux is celebrating its 10th birthday today!

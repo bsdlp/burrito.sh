@@ -1,7 +1,7 @@
 Title: Summer is here
 Date: 2012-05-12 21:10
 Author: jchen
-Category: Uncategorized
+Category:
 Slug: summer-is-here
 
 Oh man, summer is here already. My bus leaves tomorrow at 8 am, and all

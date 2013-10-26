@@ -1,7 +1,7 @@
 Title: init
 Date: 2012-03-08 18:08
 Author: jchen
-Category: Uncategorized
+Category:
 Slug: init
 
 So I decided to start a new blog, one that will serve as the main page

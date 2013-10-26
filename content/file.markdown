@@ -1,7 +1,7 @@
 Title: File:///
 Date: 2013-02-07 19:47
 Author: jchen
-Category: random internet news
+Category:
 Slug: file
 
 [help.you.i.can][] notes with his helpful comment that there are indeed

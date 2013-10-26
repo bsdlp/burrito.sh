@@ -1,7 +1,7 @@
 Title: FINISH HIM!
 Date: 2012-03-31 16:02
 Author: jchen
-Category: Uncategorized
+Category:
 Slug: finish-him
 
 [][]

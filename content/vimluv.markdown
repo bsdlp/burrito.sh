@@ -1,7 +1,7 @@
 Title: vimluv
 Date: 2013-08-24 10:41
 Author: jchen
-Category: linux, osx, python, server admin
+Category:
 Slug: vimluv
 
 [![vim][]][vim]  
