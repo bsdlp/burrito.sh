@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'bsdlp'
-SITENAME = u'bsdlp.com'
-SITEURL = ''
+AUTHOR = u'jchen'
+SITENAME = u'burrito.sh'
+SITEURL = 'https://blog.burrito.sh'
 
 TIMEZONE = 'ETC/UTC'
 
