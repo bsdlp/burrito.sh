@@ -1,6 +1,6 @@
 Title: No sound for Flash applications (sometimes) in OSX.
 Date: 2013-05-22 05:17
-Author: nokbar
+Author: jchen
 Category: bugs, osx
 Slug: no-sound-for-flash-applications-sometimes-in-osx
 

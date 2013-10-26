@@ -1,6 +1,6 @@
 Title: New project
 Date: 2012-04-08 00:15
-Author: nokbar
+Author: jchen
 Category: random internet news, urban terror, web
 Slug: new-project
 

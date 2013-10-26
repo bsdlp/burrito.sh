@@ -1,6 +1,6 @@
 Title: New PGP key
 Date: 2012-03-28 15:19
-Author: nokbar
+Author: jchen
 Category: Uncategorized
 Slug: new-pgp-key
 

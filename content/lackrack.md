@@ -1,6 +1,6 @@
 Title: lack rack
 Date: 2013-02-02 00:32
-Author: nokbar
+Author: jchen
 Category: hardware
 Slug: lackrack
 

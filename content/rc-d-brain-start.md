@@ -1,6 +1,6 @@
 Title: rc.d start brain
 Date: 2012-03-11 23:30
-Author: nokbar
+Author: jchen
 Category: Uncategorized
 Slug: rc-d-brain-start
 

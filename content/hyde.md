@@ -1,6 +1,6 @@
 Title: hyde
 Date: 2013-02-19 19:00
-Author: nokbar
+Author: jchen
 Category: python, web
 Slug: hyde
 

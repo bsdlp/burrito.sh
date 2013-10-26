@@ -1,6 +1,6 @@
 Title: no tag-backs
 Date: 2013-02-04 14:17
-Author: nokbar
+Author: jchen
 Category: random internet news
 Slug: no-tag-backs
 

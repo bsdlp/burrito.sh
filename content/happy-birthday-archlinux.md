@@ -1,6 +1,6 @@
 Title: happy birthday archlinux
 Date: 2012-03-11 11:21
-Author: nokbar
+Author: jchen
 Category: linux
 Slug: happy-birthday-archlinux
 

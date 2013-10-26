@@ -1,6 +1,6 @@
 Title: drdos
 Date: 2012-03-09 14:49
-Author: nokbar
+Author: jchen
 Category: gaming, urban terror
 Slug: drdos
 

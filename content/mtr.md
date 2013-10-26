@@ -1,6 +1,6 @@
 Title: mtr
 Date: 2012-07-28 17:13
-Author: nokbar
+Author: jchen
 Category: linux, web
 Slug: mtr
 

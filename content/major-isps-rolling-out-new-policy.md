@@ -1,6 +1,6 @@
 Title: Major ISP's rolling out new policy
 Date: 2012-03-28 15:17
-Author: nokbar
+Author: jchen
 Category: random internet news
 Slug: major-isps-rolling-out-new-policy
 

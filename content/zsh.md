@@ -1,6 +1,6 @@
 Title: .zsh/
 Date: 2012-06-14 20:46
-Author: nokbar
+Author: jchen
 Category: Uncategorized
 Slug: zsh
 

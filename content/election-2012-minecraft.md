@@ -1,6 +1,6 @@
 Title: Election 2012 && minecraft
 Date: 2012-10-02 00:05
-Author: nokbar
+Author: jchen
 Category: hardware, linux
 Slug: election-2012-minecraft
 

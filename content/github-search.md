@@ -1,6 +1,6 @@
 Title: find /github -name id_rsa
 Date: 2013-01-24 22:45
-Author: nokbar
+Author: jchen
 Category: random internet news, web
 Slug: github-search
 

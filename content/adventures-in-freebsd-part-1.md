@@ -1,6 +1,6 @@
 Title: Adventures in FreeBSD part 1
 Date: 2013-01-02 15:35
-Author: nokbar
+Author: jchen
 Category: freebsd, server admin, tutorial
 Slug: adventures-in-freebsd-part-1
 

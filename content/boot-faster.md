@@ -1,6 +1,6 @@
 Title: Boot faster!
 Date: 2012-05-07 10:09
-Author: nokbar
+Author: jchen
 Category: linux
 Slug: boot-faster
 

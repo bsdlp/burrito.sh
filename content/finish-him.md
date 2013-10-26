@@ -1,6 +1,6 @@
 Title: FINISH HIM!
 Date: 2012-03-31 16:02
-Author: nokbar
+Author: jchen
 Category: Uncategorized
 Slug: finish-him
 

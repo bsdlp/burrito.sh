@@ -1,6 +1,6 @@
 Title: Migrate data in one line
 Date: 2012-03-29 04:12
-Author: nokbar
+Author: jchen
 Category: bash, linux
 Slug: migrate-data-in-one-line
 

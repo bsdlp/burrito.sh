@@ -1,6 +1,6 @@
 Title: tmux + screen cheat sheet
 Date: 2013-08-04 05:01
-Author: nokbar
+Author: jchen
 Category: Uncategorized
 Slug: tmux-screen-cheat-sheet
 

@@ -1,6 +1,6 @@
 Title: linode-python api tool
 Date: 2013-03-11 19:30
-Author: nokbar
+Author: jchen
 Category: linode, linux, python, tutorial, web
 Slug: linode-python-api-tool
 

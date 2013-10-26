@@ -1,6 +1,6 @@
 Title: Summer is here
 Date: 2012-05-12 21:10
-Author: nokbar
+Author: jchen
 Category: Uncategorized
 Slug: summer-is-here
 

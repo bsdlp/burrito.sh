@@ -1,6 +1,6 @@
 Title: ./configure --prefix=/usr/local/ircd/
 Date: 2012-03-15 12:57
-Author: nokbar
+Author: jchen
 Category: Uncategorized
 Slug: configure-prefixusrlocalircd
 
