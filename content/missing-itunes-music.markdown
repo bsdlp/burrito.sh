@@ -60,4 +60,4 @@ Step 4:
 
 Enjoy that clean music library!
 
-  []: https://blog.burrito.sh/wp-content/uploads/2013/02/smartplaylist.png
+  []: https://d1p11jjc2wmc0c.cloudfront.net/blogmedia/smartplaylist.png

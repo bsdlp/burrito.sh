@@ -24,4 +24,4 @@ Click [here][] to find out more! Or you can hit it up via command line:
 [][]
 
   [here]: http://mtr.io/static
-  []: https://blog.burrito.sh/wp-content/uploads/2013/02/mtrdemo.png
+  []: https://d1p11jjc2wmc0c.cloudfront.net/blogmedia/mtrdemo.png

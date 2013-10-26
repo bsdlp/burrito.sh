@@ -11,4 +11,4 @@ Get at it:
 
 https://github.com/fly/osxdotfiles
 
-  [vim]: https://blog.burrito.sh/wp-content/uploads/2013/08/vim.png
+  [vim]: https://d1p11jjc2wmc0c.cloudfront.net/blogmedia/vim.png
