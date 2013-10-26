@@ -7,7 +7,7 @@ Slug: mad-decent-block-party
 WUP WUP
 
 [][]  
-<!--more-->
+
 
 Just released on soundcloud...
 

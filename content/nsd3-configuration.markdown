@@ -14,7 +14,7 @@ You need the following packages:
 -   ldns-utils
 -   dns-utils
 
-<!--more-->
+
 
 Here is what an nsd zone file looks like. This should work with bind as
 well:

@@ -7,7 +7,7 @@ Slug: linode-python-api-tool
 Thanks to @[linode][]'s API and @[tjfontaine][] & co's [linode-python
 api tool][], there's now an quick and easy way to programmatically
 manage the many services offered by Linode.  
-<!--more-->  
+  
 You'll want to grab pycurl first: `sudo pip install pycurl`
 
 Check out the official [Linode API Documentation][] first, to make sure

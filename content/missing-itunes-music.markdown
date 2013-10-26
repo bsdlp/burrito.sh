@@ -16,7 +16,7 @@ It's not like they're all bunched up or anything... Chances are they're
 peppered through your huge library. You've got missing iTunes music! But
 don't worry!
 
-<!--more-->
+
 
 **Here's where Google comes in handy!**
 

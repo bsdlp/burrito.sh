@@ -11,7 +11,7 @@ handles get status requests to amplify their DDoS attacks. Not only does
 this cause issue with potential blacklisting, but it also eats up
 bandwidth and effects server performance.
 
-<!--more-->  
+  
 According to this [article][], some creative iptables use can help
 mitigate DrDoS attacks.
 

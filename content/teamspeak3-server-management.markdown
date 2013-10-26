@@ -14,7 +14,7 @@ Server port: 9987 (the default)
 sid: 2  
 Server query port: 10011 (the default)  
 Serveradmin password: 12345  
-<!--more-->
+
 
 **Log into the server:**  
 On Linux:

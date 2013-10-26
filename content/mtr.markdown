@@ -19,7 +19,7 @@ Click [here][] to find out more! Or you can hit it up via command line:
 
  
 
-<!--more-->
+
 
 [][]
 

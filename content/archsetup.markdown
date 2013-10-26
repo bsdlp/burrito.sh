@@ -22,7 +22,7 @@ I highly recommend reading the [archlinux wiki][] and especially their
 [beginner's guide][] and [official installation guide][]. Archlinux is
 famous for their incredibly deep and easy to understand wiki articles,
 and I consult those wikis even when I'm not using arch.  
-<!--more-->
+
 
 **-----------You will need to do these steps in the rescue console in
 your control panel--------------**

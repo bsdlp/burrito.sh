@@ -12,7 +12,7 @@ have poisoned their ISP's resolver cache. This is kind of similar to the
 basis of SSL certificates, but it protects the DNS lookup process, which
 is in essence the first process to reaching a website when one types in
 a URL into their browser. So here's how I've been signing my zones.  
-<!--more-->  
+  
 I'm working with nsd3 on FreeBSD 9.1 AMD64:  
 ` NSD version 3.2.15 Written by NLnet Labs.`
 

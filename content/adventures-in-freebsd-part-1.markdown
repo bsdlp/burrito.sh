@@ -36,7 +36,7 @@ do the needful to get your stuff back up and running. Luckily, I haven't
 had to use that feature yet, although I might want to make a dry run at
 some point just to familiarize myself with how it works.
 
-<!--more-->
+
 
 Of course, the first thing I did was edit /etc/rc.conf, the /main/
 configuration file for the system. This is what mine looks like right
