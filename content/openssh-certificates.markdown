@@ -1,6 +1,7 @@
 Title: openssh certificates
 Date: 2013-09-17 16:30
 Author: jchen
+Category: blog
 Tags: Uncategorized
 Slug: openssh-certificates
 

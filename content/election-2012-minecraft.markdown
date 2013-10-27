@@ -1,6 +1,7 @@
 Title: Election 2012 && minecraft
 Date: 2012-10-02 00:05
 Author: jchen
+Category: blog
 Tags: hardware, linux
 Slug: election-2012-minecraft
 

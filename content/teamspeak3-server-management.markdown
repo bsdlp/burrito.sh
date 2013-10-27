@@ -1,6 +1,7 @@
 Title: Teamspeak3 server management
 Date: 2012-03-29 20:07
 Author: jchen
+Category: blog
 Tags: server admin, telnet, tutorial
 Slug: teamspeak3-server-management
 

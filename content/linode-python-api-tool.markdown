@@ -1,6 +1,7 @@
 Title: linode-python api tool
 Date: 2013-03-11 19:30
 Author: jchen
+Category: blog
 Tags: linode, linux, python, tutorial, web
 Slug: linode-python-api-tool
 

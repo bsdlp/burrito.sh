@@ -1,6 +1,7 @@
 Title: dnssec on nsd3
 Date: 2013-02-13 22:05
 Author: jchen
+Category: blog
 Tags: freebsd, linux, server admin, tutorial, web
 Slug: dnssec-on-nsd3
 

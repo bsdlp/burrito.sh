@@ -1,6 +1,7 @@
 Title: lack rack
 Date: 2013-02-02 00:32
 Author: jchen
+Category: blog
 Tags: hardware
 Slug: lackrack
 

@@ -1,6 +1,7 @@
 Title: /arch/setup
 Date: 2012-03-10 11:22
 Author: jchen
+Category: blog
 Tags: Uncategorized
 Slug: archsetup
 

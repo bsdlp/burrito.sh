@@ -1,6 +1,7 @@
 Title: hyde
 Date: 2013-02-19 19:00
 Author: jchen
+Category: blog
 Tags: python, web
 Slug: hyde
 

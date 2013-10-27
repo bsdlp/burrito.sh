@@ -1,6 +1,7 @@
 Title: Summer is here
 Date: 2012-05-12 21:10
 Author: jchen
+Category: blog
 Tags: Uncategorized
 Slug: summer-is-here
 

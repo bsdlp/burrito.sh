@@ -1,6 +1,7 @@
 Title: Vim luv
 Date: 2013-08-24 10:41
 Author: jchen
+Category: blog
 Tags: linux, osx, python, server admin
 Slug: vimluv
 

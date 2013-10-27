@@ -1,6 +1,7 @@
 Title: find / -name job
 Date: 2012-03-20 17:26
 Author: jchen
+Category: blog
 Tags: Uncategorized
 Slug: find-name-job
 

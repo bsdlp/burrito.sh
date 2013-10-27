@@ -1,6 +1,7 @@
 Title: How to make a site look nice on mobile devices
 Date: 2012-03-29 04:46
 Author: jchen
+Category: blog
 Tags: web
 Slug: mobile-design
 

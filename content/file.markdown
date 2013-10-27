@@ -1,6 +1,7 @@
 Title: File:///
 Date: 2013-02-07 19:47
 Author: jchen
+Category: blog
 Tags: random internet news
 Slug: file
 
