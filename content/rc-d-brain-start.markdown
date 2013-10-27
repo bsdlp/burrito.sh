@@ -1,7 +1,7 @@
 Title: rc.d start brain
 Date: 2012-03-11 23:30
 Author: jchen
-Category: blog
+Tags: Uncategorized
 Slug: rc-d-brain-start
 
 Waking up in the mornings at 7am = not exactly fun at all, especially

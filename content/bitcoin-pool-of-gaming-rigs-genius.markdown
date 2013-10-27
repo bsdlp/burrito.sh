@@ -1,7 +1,7 @@
 Title: Bitcoin Pool of Gaming Rigs... Genius?
 Date: 2013-05-01 07:00
 Author: jchen
-Category: blog
+Tags: gaming, random internet news, web
 Slug: bitcoin-pool-of-gaming-rigs-genius
 
 So check it:  

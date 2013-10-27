@@ -1,7 +1,7 @@
 Title: .zsh/
 Date: 2012-06-14 20:46
 Author: jchen
-Category: blog
+Tags: Uncategorized
 Slug: zsh
 
 I love arch. So when it comes time that I need to work in Debian/Ubuntu,

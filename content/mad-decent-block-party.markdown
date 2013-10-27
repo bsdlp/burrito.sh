@@ -1,7 +1,7 @@
 Title: Mad Decent Block Party
 Date: 2012-07-30 06:41
 Author: jchen
-Category: blog
+Tags: music
 Slug: mad-decent-block-party
 
 WUP WUP

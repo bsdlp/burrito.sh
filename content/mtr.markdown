@@ -1,7 +1,7 @@
 Title: mtr
 Date: 2012-07-28 17:13
 Author: jchen
-Category: blog
+Tags: linux, web
 Slug: mtr
 
 Click [here][] to find out more! Or you can hit it up via command line:
@@ -23,5 +23,5 @@ Click [here][] to find out more! Or you can hit it up via command line:
 
 [][]
 
-  [here]: https://github.com/fly/mtrpy
+  [here]: http://mtr.io/static
   []: https://d1p11jjc2wmc0c.cloudfront.net/blogmedia/mtrdemo.png

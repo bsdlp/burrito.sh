@@ -1,7 +1,7 @@
 Title: New project
 Date: 2012-04-08 00:15
 Author: jchen
-Category: blog
+Tags: random internet news, urban terror, web
 Slug: new-project
 
 So I just started a new project this weekend.

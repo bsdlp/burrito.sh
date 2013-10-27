@@ -1,7 +1,7 @@
 Title: Boot faster!
 Date: 2012-05-07 10:09
 Author: jchen
-Category: blog
+Tags: linux
 Slug: boot-faster
 
 falconindy from the Archlinux dev team posted a pretty good write-up

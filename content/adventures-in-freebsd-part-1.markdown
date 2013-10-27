@@ -1,7 +1,7 @@
 Title: Adventures in FreeBSD part 1
 Date: 2013-01-02 15:35
 Author: jchen
-Category: blog
+Tags: freebsd, server admin, tutorial
 Slug: adventures-in-freebsd-part-1
 
 I've recently ordered a new dedicated server from OVH in their new
