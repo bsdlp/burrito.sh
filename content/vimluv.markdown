@@ -1,7 +1,7 @@
 Title: vimluv
 Date: 2013-08-24 10:41
 Author: jchen
-Category:
+Category: blog
 Slug: vimluv
 
 [![vim][]][vim]  

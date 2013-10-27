@@ -1,7 +1,7 @@
 Title: drdos
 Date: 2012-03-09 14:49
 Author: jchen
-Category:
+Category: blog
 Slug: drdos
 
 DRDoS (Distributed Reflected Denial of Service) attacks are the bane of

@@ -1,7 +1,7 @@
 Title: vps
 Date: 2012-03-09 22:07
 Author: jchen
-Category:
+Category: blog
 Slug: vps
 
 Recently I really got into browsing the internets for deals on virtual

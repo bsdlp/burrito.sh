@@ -1,7 +1,7 @@
 Title: find /github -name id_rsa
 Date: 2013-01-24 22:45
 Author: jchen
-Category:
+Category: blog
 Slug: github-search
 
 So, the new [GitHub code search feature][] has got people buzzing about

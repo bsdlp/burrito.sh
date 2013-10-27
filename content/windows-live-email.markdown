@@ -1,7 +1,7 @@
 Title: windows live email services
 Date: 2013-03-31 18:01
 Author: jchen
-Category:
+Category: blog
 Slug: windows-live-email
 
 So, [outlook.com][] is pretty slick. I think it can serve as a pretty

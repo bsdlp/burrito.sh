@@ -1,7 +1,7 @@
 Title: New PGP key
 Date: 2012-03-28 15:19
 Author: jchen
-Category:
+Category: blog
 Slug: new-pgp-key
 
 Here's my new pgp key for sjchen(at)sjchen.com:  

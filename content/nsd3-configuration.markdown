@@ -1,7 +1,7 @@
 Title: nsd3 configuration
 Date: 2012-08-09 06:30
 Author: jchen
-Category:
+Category: blog
 Slug: nsd3-configuration
 
 I've recently gotten around to setting up my own authoritative

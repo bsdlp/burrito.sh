@@ -1,7 +1,7 @@
 Title: Minecraft crashes if you run it on a secondary monitor on OSX?
 Date: 2013-02-24 06:28
 Author: jchen
-Category:
+Category: blog
 Slug: minecraft-crashes-if-you-run-it-on-a-secondary-monitor-on-osx
 
 So I've got two monitors set up. I was watching some movie on my main

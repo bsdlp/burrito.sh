@@ -1,7 +1,7 @@
 Title: Election 2012 && minecraft
 Date: 2012-10-02 00:05
 Author: jchen
-Category:
+Category: blog
 Slug: election-2012-minecraft
 
 I just put my fist voter registration form in the mail. I don't expect

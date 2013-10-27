@@ -1,7 +1,7 @@
 Title: no tag-backs
 Date: 2013-02-04 14:17
 Author: jchen
-Category:
+Category: blog
 Slug: no-tag-backs
 
 [Interesting story in the Wall Street Journal][] about a couple of guys

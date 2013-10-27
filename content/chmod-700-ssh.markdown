@@ -1,7 +1,7 @@
 Title: chmod 700 ~/.ssh
 Date: 2012-03-14 15:21
 Author: jchen
-Category:
+Category: blog
 Tags: ssh config permissions chmod
 Slug: chmod-700-ssh
 

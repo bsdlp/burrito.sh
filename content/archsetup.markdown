@@ -1,7 +1,7 @@
 Title: /arch/setup
 Date: 2012-03-10 11:22
 Author: jchen
-Category:
+Category: blog
 Slug: archsetup
 
 So finally I got a working template of archlinux on a xen vps in the

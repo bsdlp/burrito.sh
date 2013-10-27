@@ -1,7 +1,7 @@
 Title: Migrate data in one line
 Date: 2012-03-29 04:12
 Author: jchen
-Category:
+Category: blog
 Slug: migrate-data-in-one-line
 
 So I find myself doing some repetitive tasks whenever I cancel a server

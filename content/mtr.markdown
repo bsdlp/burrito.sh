@@ -1,7 +1,7 @@
 Title: mtr
 Date: 2012-07-28 17:13
 Author: jchen
-Category:
+Category: blog
 Slug: mtr
 
 Click [here][] to find out more! Or you can hit it up via command line:
