@@ -25,7 +25,7 @@ LINKS =  (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-PLUGINS = ['pelican_youtube',]
+# PLUGINS = ['pelican_youtube',]
 
 
 DEFAULT_PAGINATION = 10
