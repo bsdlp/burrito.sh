@@ -10,6 +10,9 @@ TIMEZONE = 'ETC/UTC'
 
 DEFAULT_LANG = u'en'
 
+# theme stuff
+THEME = '/Users/jchen/git/pelican/burrito'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
