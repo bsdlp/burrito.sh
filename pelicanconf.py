@@ -13,6 +13,13 @@ DEFAULT_LANG = u'en'
 # theme stuff
 THEME = '/Users/jchen/git/pelican/burrito'
 
+# plugins
+PLUGIN_PATH = '/Users/jchen/git/pelican/plugins-pelican'
+PLUGINS = ['gravatar', 'better_figures_and_images']
+
+# gravatar email
+AUTHOR_EMAIL = 'fly@sjchen.net'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
