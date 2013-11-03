@@ -15,7 +15,7 @@ THEME = '/Users/jchen/git/pelican/burrito'
 
 # plugins
 PLUGIN_PATH = '/Users/jchen/git/pelican/plugins-pelican'
-PLUGINS = ['gravatar', 'better_figures_and_images']
+PLUGINS = ['gravatar']
 
 # gravatar email
 AUTHOR_EMAIL = 'fly@sjchen.net'
