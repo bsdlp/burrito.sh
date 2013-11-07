@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'jchen'
-SITENAME = u'burrito.sh'
+SITENAME = u'BURRITO 4 LYFE'
 SITEURL = ''
 
 TIMEZONE = 'ETC/UTC'
