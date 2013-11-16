@@ -7,11 +7,9 @@ Slug: dnssec-pain
 
 # DNSSEC is kind of a pain
 
-[undocumented errors](https://blog.mozilla.org/it/2013/05/16/rfo-dnssec-resolution-failures-mozilla-org-201305151800-pdt-872818/) kills me.
+[undocumented errors](https://blog.mozilla.org/it/2013/05/16/rfo-dnssec-resolution-failures-mozilla-org-201305151800-pdt-872818/) kill me.
 
-```
-Investigation found that the DNSSEC signer was refusing to sign the zone, providing only the error “fatal: cannot find SOA RRSIGs“. In hindsight, this undocumented error indicates that the zone’s ZSK has expired.
-```
+> Investigation found that the DNSSEC signer was refusing to sign the zone, providing only the error “fatal: cannot find SOA RRSIGs“. In hindsight, this undocumented error indicates that the zone’s ZSK has expired.
 
 Today I was just hacking away at updating [libcloud](https://libcloud.apache.org/) support for [Linode](https://www.linode.com) [NodeBalancers](https://www.linode.com/nodebalancers/) when I realized that some of my emails and stuff weren't working correctly.
 
