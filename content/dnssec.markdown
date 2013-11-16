@@ -1,11 +1,9 @@
-Title: dnssec is a pain
+Title: DNSSEC is kind of a pain
 Date: 2013-11-02 17:36
 Author: jchen
 Category: blog
 Tags: linux, osx, server admin
 Slug: dnssec-pain
-
-# DNSSEC is kind of a pain
 
 [undocumented errors](https://blog.mozilla.org/it/2013/05/16/rfo-dnssec-resolution-failures-mozilla-org-201305151800-pdt-872818/) kill me.
 
