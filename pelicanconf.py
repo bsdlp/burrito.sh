@@ -34,6 +34,7 @@ DEFAULT_PAGINATION = 10
 
 DISPLAY_CATEGORIES_ON_MENU = False
 DISPLAY_MENUITEMS_ON_MENU = False
+DISPLAY_NAVBAR = False
 DISPLAY_PAGES_ON_MENU = False
 
 # Uncomment following line if you want document-relative URLs when developing
