@@ -13,22 +13,22 @@ and running.
 Since most providers are still using the 2010.05 iso, this guide will be
 based on that.
 
-**\*\*\*\*\*\*\*WARNING\*\*\*\*\*\*\*\* This guide is NOT a full guide
-on how to install archlinux. It is just a quick guide for experienced
-arch users on how to get arch working with an outdated template on a xen
-vps.**
+### WARNING
 
-**Before you get started:**  
+This guide is NOT a full guide on how to install archlinux. It is just a quick guide for experienced
+arch users on how to get arch working with an outdated template on a xen
+vps.
+
+### Before you get started:
 I highly recommend reading the [archlinux wiki][] and especially their
 [beginner's guide][] and [official installation guide][]. Archlinux is
 famous for their incredibly deep and easy to understand wiki articles,
 and I consult those wikis even when I'm not using arch.  
 
 
-**-----------You will need to do these steps in the rescue console in
-your control panel--------------**
+_You will need to do these steps in the rescue console in your control panel_
 
-**First:**  
+*First:*
 Check your `/etc/rc.conf` and change your hostname to something you
 want.
 
@@ -42,7 +42,7 @@ want.
 
 *change the HOSTNAME field to your desired hostname*
 
-**Second:**  
+*Second:*
 Check with your provider about how to get your networking set up.
 Normally, they would have a article in their knowledge base with all the
 information you need to fill in. Open up `/etc/rc.conf` again and find
@@ -66,12 +66,12 @@ look in your provider's knowledgebase for what you should fill in for
 your netmask and gateway. If you can't find this information, open a
 ticket.
 
-**Third:**  
+*Third:*
 Go to `/etc/pacman.conf` and check that you at least have `[core]`
 enabled. Then open up `/etc/pacman.d/mirrorlist` and uncomment some
 mirrors.
 
-**Fourth:**  
+*Fourth:*
 Run:  
 `# pacman -Syyu`  
 It will first ask you to update pacman, which you should do, and then
@@ -91,3 +91,4 @@ again, and then you should be up to date!
     "beginner's guide"
   [official installation guide]: https://wiki.archlinux.org/index.php/Official_Installation_Guide
     "official installation guide"
+
