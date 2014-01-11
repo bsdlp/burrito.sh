@@ -29,3 +29,4 @@ fields. You need to make sure you put in user@domain.tld, not just
   [Sparrow]: http://www.sparrowmailapp.com/ "sparrow"
   [settings]: http://windows.microsoft.com/en-US/windows/outlook/send-receive-from-app
     "outlook pop3 smtp"
+

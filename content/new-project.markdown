@@ -16,5 +16,5 @@ down, and then I will begin work on customizing the css and and
 javascript and then eventually I'll create an MVC to support it. You can
 look watch and/or fork the development over at github:
 
-The site is located at:  
-<http://urtdevs.com>
+The site is located [here](http://urtdevs.com).
+

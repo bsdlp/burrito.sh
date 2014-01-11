@@ -10,7 +10,7 @@ private servers, especially low end boxes that go for under \$10 a
 month. A friend of mine had been telling me about prgmr.com's xen vps's,
 and when I finally told myself to start a website, I looked deeper.
 
-**Lowendbox.com / Lowendtalk.com :**  
+*Lowendbox.com / Lowendtalk.com:*
 LEB/LET is the 1-2 punch behind the low end vps market. The main rule
 of LEB is that any VPS offers posted has to be under \$7. The deals go
 from the absurd (Hostsnowy) to the surprisingly reliable (ChicagoVPS) to
@@ -18,7 +18,7 @@ the "do-no-wrong" (buyvm). Not only do the ridiculously low price points
 appeal to potential customers, but the intense discussions on the LET
 forums provides insight into one of the most competitive online markets.
 
-**webhostingtalk.com :**  
+*webhostingtalk.com:*
 Effectively the biggest web hosting forum on the internet, WHT provides
 grounds for industry announcements, VPS/Cloud
 server/dedicated/shared/email/dns hosting offers and much more.
@@ -29,3 +29,4 @@ not as passionate as those of LET, there is a higher amount of scam/bad
 providers who post there. If you know enough to tell between the bad
 providers and the good ones, WHT is a good way to keep an eye on
 potential providers.
+

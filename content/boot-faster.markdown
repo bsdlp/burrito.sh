@@ -15,3 +15,4 @@ from my boot time.
 
   [here]: http://blog.falconindy.com/articles/optmizing-bootup-with-mkinitcpio.html
   [systemd]: https://wiki.archlinux.org/index.php/Systemd
+

@@ -28,3 +28,4 @@ create a layout and interface that doesn't rely on how much screen real
 estate is available. I'm somewhat happy with what I have now... A work
 in progress modified minimal theme for this blog, and a somewhat clean
 static html site for the homepage. I have still got a lot of work to do.
+

@@ -16,3 +16,4 @@ and its contents:
     chmod 600 id_rsa
 
 Otherwise it'll keep complaining that your permissions are wrong.
+

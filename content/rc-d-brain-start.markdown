@@ -18,8 +18,9 @@ do even more with this project.
 
 Here's what I have planned in addpisg:
 
--   Completely interactive menu instead of just static prompts
--   Comprehensive options (depends on interactive menu)
--   Possibly a web frontend?
+- Completely interactive menu instead of just static prompts
+- Comprehensive options (depends on interactive menu)
+- Possibly a web frontend?
 
 heh.
+

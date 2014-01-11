@@ -55,3 +55,4 @@ Take from this what you will.
   original thread and a recording of him discussing the issue with
   Jaguar, the main man behind the code for the ESEA client]: http://play.esea.net/index.php?s=forums&d=topic&id=492190
   [lpkane's (the guy who runs ESEA) response]: http://play.esea.net/index.php?s=forums&d=topic&id=492134
+

@@ -14,13 +14,14 @@ basis of SSL certificates, but it protects the DNS lookup process, which
 is in essence the first process to reaching a website when one types in
 a URL into their browser. So here's how I've been signing my zones.  
   
-I'm working with nsd3 on FreeBSD 9.1 AMD64:  
-` NSD version 3.2.15 Written by NLnet Labs.`
+I'm working with nsd3 on FreeBSD 9.1 AMD64:
 
-Copyright (C) 2001-2011 NLnet Labs. This is free software.  
-There is NO warranty; not even for MERCHANTABILITY or FITNESS  
-FOR A PARTICULAR PURPOSE.  
-</code>  
+    NSD version 3.2.15 Written by NLnet Labs.
+
+    Copyright (C) 2001-2011 NLnet Labs. This is free software.  
+    There is NO warranty; not even for MERCHANTABILITY or FITNESS  
+    FOR A PARTICULAR PURPOSE.  
+
 The configuration files for nsd are located in `/usr/local/etc/nsd/`,
 and here's how the directory tree looks:
 
@@ -109,3 +110,4 @@ After that, just rebuild your NSD db and reload to put it into effect:
 That's it! You're done.
 
     $ dig example.com DNSKEY
+

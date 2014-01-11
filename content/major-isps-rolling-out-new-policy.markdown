@@ -21,3 +21,4 @@ consumers fail to recognize the significance of this deal?
 
   [eff.org]: https://www.eff.org/deeplinks/2012/03/graduated-response-deal-steamrollers-towards-july-1-launch?fucktheRIAA
   [arstechnica]: http://arstechnica.com/tech-policy/news/2011/07/the-six-ways-you-can-appeal-the-new-copyright-alerts.ars
+

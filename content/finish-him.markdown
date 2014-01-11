@@ -10,3 +10,4 @@ Slug: finish-him
 Oh boy. It's getting that time again! Midterms + finals lets go!
 
   []: http://sjchen.com/img/finishphysics.jpg
+

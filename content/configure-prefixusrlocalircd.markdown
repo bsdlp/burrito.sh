@@ -8,3 +8,4 @@ Slug: configure-prefixusrlocalircd
 So I'm setting up an irc server that may/may not connect to the srsirc
 network. I'm doing this mostly for learning purposes, but it will stay
 up for as long as it's needed.
+

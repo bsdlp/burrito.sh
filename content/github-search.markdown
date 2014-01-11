@@ -25,7 +25,7 @@ github.com.
 
 With that being said, this new code search function is awesome!
 
-**2013-01-25 12:12 UPDATE:**  
+*2013-01-25 12:12 UPDATE:*
 Apparently GitHub's search is [down][]? Doing a [search for
 .ssh/id\_rsa][] does return empty, and I doubt that's because users
 actually took down their keys. Interesting. According to the article
@@ -41,3 +41,4 @@ searches for private keys. Hopefully not.
   [down]: http://it.slashdot.org/story/13/01/25/132203/github-kills-search-after-hundreds-of-private-keys-exposed
   [search for .ssh/id\_rsa]: https://github.com/search?q=path%3A.ssh%2Fid_rsa&type=Code&ref=searchresults
     "github search for .ssh/id_rsa"
+

@@ -18,3 +18,4 @@ running on the main monitor, the one with the OSX menu bar.
 
   [server]: http://mc.voltaire.sh/
   [Bug report]: https://mojang.atlassian.net/browse/MC-658
+

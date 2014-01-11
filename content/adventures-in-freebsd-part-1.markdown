@@ -25,9 +25,9 @@ deployment for partitioning your hard drive, and you get a wide range of
 operating systems to choose from. There's three negatives that affect
 me:
 
--   No IPv6 PTR records
--   Shoddy routing
--   No serial console
+- No IPv6 PTR records
+- Shoddy routing
+- No serial console
 
 The serial console is really the thing that kills, as I'm still pretty
 new to freeBSD and so I might break stuff that may cause me to lock
@@ -36,8 +36,6 @@ just like a rescue environment where you can mount your disk image and
 do the needful to get your stuff back up and running. Luckily, I haven't
 had to use that feature yet, although I might want to make a dry run at
 some point just to familiarize myself with how it works.
-
-
 
 Of course, the first thing I did was edit /etc/rc.conf, the /main/
 configuration file for the system. This is what mine looks like right
@@ -97,13 +95,13 @@ portmaster (ports-mgmt/portmaster) to manage my ports collection.
 Portmaster is pretty easy. I would recommend it to new users of freeBSD
 who are overwhelmed by the ports tree.
 
-**PREVIEW:**  
+*PREVIEW:*
 In the future, I'll be talking about other facets of freeBSD:
 
--   Ports
--   nsd3
--   irssi
--   nginx
--   php
--   pf (openbsd firewall used in freebsd)
+- Ports
+- nsd3
+- irssi
+- nginx
+- php
+- pf (openbsd firewall used in freebsd)
 

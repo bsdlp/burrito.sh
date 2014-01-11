@@ -11,72 +11,76 @@ most people. I'm running debian squeeze in this case.
 
 You need the following packages:
 
--   nsd3
--   ldns-utils
--   dns-utils
-
-
+- nsd3
+- ldns-utils
+- dns-utils
 
 Here is what an nsd zone file looks like. This should work with bind as
 well:
 
-    $TTL 86400
-    @       IN          SOA         ns1.example.com.    webmaster.example.tld. (
-                                        2012080822      ;serial
-                                        14400           ;Refresh
-                                        14400            ;retry
-                                        864000          ;expire
-                                        86400           ;min ttl
-                                        )
+```
+$TTL 86400
+@       IN          SOA         ns1.example.com.    webmaster.example.tld. (
+                                    2012080822      ;serial
+                                    14400           ;Refresh
+                                    14400            ;retry
+                                    864000          ;expire
+                                    86400           ;min ttl
+                                    )
 
-                        NS              ns1.example.com.
-                        NS              ns2.example.com.
+                    NS              ns1.example.com.
+                    NS              ns2.example.com.
 
-    ns1     86400       IN      A       NS1.IP.ADDR.HERE
-    ns2     86400       IN      A       NS2.IP.ADDR.HERE
-    @       300         IN      A       YOUR.IP.ADDR.HERE
-    www     300         IN      A       YOUR.IP.ADDR.HERE
+ns1     86400       IN      A       NS1.IP.ADDR.HERE
+ns2     86400       IN      A       NS2.IP.ADDR.HERE
+@       300         IN      A       YOUR.IP.ADDR.HERE
+www     300         IN      A       YOUR.IP.ADDR.HERE
+```
 
 mx, cname, txt and other records are added similarly. You should update
 the serial number whenever you edit the zone
 
 this is a very basic configuration file for the master nameserver:
 
-    server:
-        logfile: "/var/log/nsd.log"
-        username: nsd
+```
+server:
+    logfile: "/var/log/nsd.log"
+    username: nsd
 
-    key:
-        name: KEYNAME
-        algorithm: hmac-sha1
-        secret: "XFRPRIVKEYHERE"
+key:
+    name: KEYNAME
+    algorithm: hmac-sha1
+    secret: "XFRPRIVKEYHERE"
 
-    zone:
-        name: example.com
-        zonefile: /etc/nsd3/master/example.com.zone
+zone:
+    name: example.com
+    zonefile: /etc/nsd3/master/example.com.zone
 
-        #slave
-        notify: SLAVE.IP.ADDR.HERE KEYNAME
-        provide-xfr: SLAVE.IP.ADDR.HERE KEYNAME
+    #slave
+    notify: SLAVE.IP.ADDR.HERE KEYNAME
+    provide-xfr: SLAVE.IP.ADDR.HERE KEYNAME
+```
 
 This is what a really basic slave config looks like:
 
-    server:
-        logfile: "/var/log/nsd.log"
-        username: nsd
+```
+server:
+    logfile: "/var/log/nsd.log"
+    username: nsd
 
-    key:
-        name: KEYNAME
-        algorithm: hmac-sha1
-        secret: "XFRPRIVKEYHERE"
+key:
+    name: KEYNAME
+    algorithm: hmac-sha1
+    secret: "XFRPRIVKEYHERE"
 
-    zone:
-        name: "example.com"
-        zonefile: "/etc/nsd3/slave/example.com.zone"
+zone:
+    name: "example.com"
+    zonefile: "/etc/nsd3/slave/example.com.zone"
 
-        #slave
-        allow-notify: MASTER.IP.ADDR.HERE KEYNAME
-        request-xfr: AXFR MASTER.IP.ADDR.HERE KEYNAME
+    #slave
+    allow-notify: MASTER.IP.ADDR.HERE KEYNAME
+    request-xfr: AXFR MASTER.IP.ADDR.HERE KEYNAME
+```
 
 use the same privkey for both the master and slave. Here's how you
 generate a key:
@@ -102,3 +106,4 @@ verify that it's working using:
     dig @localhost example.com
 
 glhf mileage may vary.
+

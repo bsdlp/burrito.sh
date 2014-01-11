@@ -9,8 +9,8 @@ Here's my new pgp key for sjchen(at)sjchen.com:
 You can also grab it from the major keyservers like
 <http://pgp.mit.edu>.  
   
-
-`-----BEGIN PGP PUBLIC KEY BLOCK----- Version: GnuPG v2.0.18 (GNU/Linux)`
+```
+-----BEGIN PGP PUBLIC KEY BLOCK----- Version: GnuPG v2.0.18 (GNU/Linux)
 
 mQINBE9zGjUBEADNXwGJLvHXUCUaUP5tZnRjpFLViT31TBkCYfkFTdxAuUL148N3  
 D8hqcRFd6pM5RIvEGjjn2FEuP4Afb4VjecOEmYXQlVpUZ13feKU1Yc52PHmh5w4G  
@@ -61,4 +61,5 @@ Kw7+dsq7aOh7mo78nHhB0wzafFn0vxz0LY1KNspaPIer9kUjVsuI/W7VSO7l22A7
 i1Qx0Eg=  
 =kkoY  
 -----END PGP PUBLIC KEY BLOCK-----  
-</code>
+```
+
