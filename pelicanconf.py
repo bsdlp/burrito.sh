@@ -13,7 +13,7 @@ DEFAULT_LANG = u'en'
 CSS_FILE = 'style.css'
 
 # theme stuff
-THEME = './burrito'
+THEME = './theme'
 
 # plugins
 PLUGIN_PATH = './plugins'
