@@ -40,5 +40,5 @@ DISPLAY_PAGES_ON_MENU = False
 DEFAULT_DATE_FORMAT = ('%Y-%m-%d')
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
