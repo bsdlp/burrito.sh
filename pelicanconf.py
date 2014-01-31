@@ -13,14 +13,14 @@ DEFAULT_LANG = u'en'
 CSS_FILE = 'style.css'
 
 # theme stuff
-THEME = '/Users/jchen/git/pelican/burrito'
+THEME = './burrito'
 
 # plugins
-PLUGIN_PATH = '/Users/jchen/git/pelican/plugins-pelican'
+PLUGIN_PATH = './plugins'
 PLUGINS = ['gravatar']
 
 # gravatar email
-AUTHOR_EMAIL = 'fly@sjchen.net'
+AUTHOR_EMAIL = 'dabestmayne@burrito.sh'
 
 # social
 TWITTER_USERNAME = 's_jchen'
