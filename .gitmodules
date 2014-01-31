@@ -1,6 +1,6 @@
 [submodule "plugins"]
 	path = plugins
-	url = https://github.com/getpelican/pelican-plugins
+	url = git@github.com:getpelican/pelican-plugins.git
 [submodule "theme"]
 	path = theme
-	url = https://github.com/fly/burrito.git
+    url = git@github.com:fly/burrito.git
