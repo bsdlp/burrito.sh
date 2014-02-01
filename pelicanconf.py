@@ -19,6 +19,8 @@ THEME = './theme'
 PLUGIN_PATH = './plugins'
 PLUGINS = ['gravatar']
 
+DISQUS_SITENAME = "voltaire"
+
 # gravatar email
 AUTHOR_EMAIL = 'dabestmayne@burrito.sh'
 
