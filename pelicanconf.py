@@ -3,6 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'jchen'
+FULLNAME = u'Jon Chen'
 SITENAME = u'BURRITO 4 LYFE'
 SITEURL = ''
 
