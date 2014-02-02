@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'jchen'
 AUTHOR_FULLNAME = u'Jon Chen'
 SITENAME = u'burrito?'
-SITEURL = ''
+SITEURL = 'http://burrito.sh'
 
 TIMEZONE = 'ETC/UTC'
 
