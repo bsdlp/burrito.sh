@@ -43,7 +43,7 @@ This creates a smart playlist. For the first dropdown box, change that
 dropdown, choose that new playlist you made in step 1. Make sure the
 Live updating checkbox is checked. Press OK!
 
-[][]
+[![smart playlist](thumbs/smartplaylist_thumbnail_wide.png)](img/smartplaylist.png)
 
 Step 3:
 =======
@@ -58,6 +58,4 @@ Step 4:
 =======
 
 Enjoy that clean music library!
-
-  []: https://d1p11jjc2wmc0c.cloudfront.net/blogmedia/smartplaylist.png
 

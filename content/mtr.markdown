@@ -5,7 +5,7 @@ Category: blog
 Tags: linux, web
 Slug: mtr
 
-Click [here][] to find out more! Or you can hit it up via command line:
+Click [here][http://mtr.io/static] to find out more! Or you can hit it up via command line:
 
 ```
 jchen@home> curl http://mtr.sjchen.net
@@ -20,8 +20,5 @@ HOST: garfield                               Loss%   Snt   Last   Avg  Best  Wrs
   8.|-- home.sjchen.net                         0.0%    10    8.0   7.8   7.6   8.0   0.1
 ```
 
-[][]
-
-  [here]: http://mtr.io/static
-  []: https://d1p11jjc2wmc0c.cloudfront.net/blogmedia/mtrdemo.png
+[![mtr demo](./thumbs/mtrdemo_thumbnail_wide.png)](./img/mtrdemo.png)
 

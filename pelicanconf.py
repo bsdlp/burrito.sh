@@ -18,9 +18,7 @@ THEME = './theme'
 
 # plugins
 PLUGIN_PATH = './plugins'
-PLUGINS = ['gravatar']
-
-DISQUS_SITENAME = "voltaireblog"
+PLUGINS = ['gravatar', 'thumbnailer']
 
 # gravatar email
 AUTHOR_EMAIL = 'dabestmayne@burrito.sh'
@@ -44,4 +42,15 @@ DEFAULT_DATE_FORMAT = ('%Y-%m-%d')
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
+# add paths to pelican
+STATIC_PATHS = ['img']
+
+# Thumbnailer plugin options
+IMAGE_PATH = 'img'
+THUMBNAIL_DIR = 'thumbs'
+THUMBNAIL_SIZES = {
+    'thumbnail_square': '270',
+    'thumbnail_wide': '540x?',
+}
 
