@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'jchen'
 AUTHOR_FULLNAME = u'Jon Chen'
-SITENAME = u'BURRITO 4 LYFE'
+SITENAME = u'burrito?'
 SITEURL = ''
 
 TIMEZONE = 'ETC/UTC'
