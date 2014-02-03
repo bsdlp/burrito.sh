@@ -21,11 +21,14 @@ use for example.
 
 Let's take a look at what the output looks like for each domain request:
 
-    from linode import api
-    linode = api.Api('topsekritkey')
+```
+#!python
+from linode import api
+linode = api.Api('topsekritkey')
 
-    for domain in linode.domain.list():
-        print domain
+for domain in linode.domain.list():
+    print domain
+```
 
 This outputs something like:
 
@@ -38,14 +41,20 @@ domain's ID number, and then update that domain's MASTER\_IPS value to
 my new master, 127.0.0.1.
 
 ```
+#!python
 from linode import api
 linode = api.Api('topsekritkey')
 
-for domain in linode.domain.list():                                      # for each domain entry in the list,
-    if domain['TYPE'] == 'slave':                                        # check if the domain is a slave entry, as I have some master entries mixed in,
-        targetID = domain['DOMAINID']                                    # grab the domain ID,
-        linode.domain.update(DomainID=targetID, MASTER_IPS='127.0.0.1')  # update the MASTERS_IPS value for $DomainID, if additional ips, semicolon ";" delimited.
-        print(domain)                                                    # look pretty sorta.
+for domain in linode.domain.list():
+# for each domain entry in the list,
+    if domain['TYPE'] == 'slave':
+# check if the domain is a slave entry, as I have some master entries mixed in,
+        targetID = domain['DOMAINID']
+# grab the domain ID,
+        linode.domain.update(DomainID=targetID, MASTER_IPS='127.0.0.1')
+# update the MASTERS_IPS value for $DomainID, if additional ips, semicolon ";" delimited.
+        print(domain)
+# look pretty sorta.
 ```
 
 That quick and dirty snippet should do the trick.
