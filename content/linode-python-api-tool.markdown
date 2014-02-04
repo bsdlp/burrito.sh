@@ -48,11 +48,14 @@ linode = api.Api('topsekritkey')
 for domain in linode.domain.list():
 # for each domain entry in the list,
     if domain['TYPE'] == 'slave':
-# check if the domain is a slave entry, as I have some master entries mixed in,
+# check if the domain is a slave entry, as I have some master
+# entries mixed in,
         targetID = domain['DOMAINID']
 # grab the domain ID,
-        linode.domain.update(DomainID=targetID, MASTER_IPS='127.0.0.1')
-# update the MASTERS_IPS value for $DomainID, if additional ips, semicolon ";" delimited.
+        linode.domain.update(DomainID=targetID,
+                             MASTER_IPS='127.0.0.1')
+# update the MASTERS_IPS value for $DomainID, if additional ips,
+# semicolon “;” delimited.
         print(domain)
 # look pretty sorta.
 ```
