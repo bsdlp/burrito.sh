@@ -10,3 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
+FEED_DOMAIN = "http://burrito.sh"
+FEED_ALL_RSS = 'feeds/all.rss.xml'
+CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
+
