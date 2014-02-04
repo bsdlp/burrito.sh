@@ -7,7 +7,7 @@ AUTHOR_FULLNAME = u'Jon Chen'
 SITENAME = u'burritos r us'
 SITEURL = 'http://burrito.sh'
 
-TIMEZONE = 'ETC/UTC'
+TIMEZONE = 'Etc/UTC'
 
 DEFAULT_LANG = u'en'
 
