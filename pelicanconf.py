@@ -54,5 +54,5 @@ THUMBNAIL_SIZES = {
     'thumbnail_wide': '540x?',
 }
 
-MD_EXTENSIONS = ['codehilite(css_class=highlight, linenums=True)','extra']
+MD_EXTENSIONS = ['codehilite(css_class=highlight, linenums=False)','extra']
 
