@@ -54,9 +54,5 @@ THUMBNAIL_SIZES = {
     'thumbnail_wide': '540x?',
 }
 
-PYGMENTS_RST_OPTIONS = {
-    'linenos': 'table',
-}
-
 MD_EXTENSIONS = ['codehilite(css_class=highlight, linenums=True)','extra']
 
