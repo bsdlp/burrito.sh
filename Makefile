@@ -17,7 +17,7 @@ SSH_PORT=22
 SSH_USER=root
 SSH_TARGET_DIR=/var/www
 
-S3_BUCKET=my_s3_bucket
+S3_BUCKET=burrito-sh
 
 DROPBOX_DIR=~/Dropbox/Public/
 
