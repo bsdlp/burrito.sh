@@ -52,8 +52,8 @@ STATIC_PATHS = ['img']
 IMAGE_PATH = 'img'
 THUMBNAIL_DIR = 'thumbs'
 THUMBNAIL_SIZES = {
-    'thumbnail_square': '270',
-    'thumbnail_wide': '540x?',
+    'thumbnail_square': '317',
+    'thumbnail_wide': '635x?',
 }
 
 MD_EXTENSIONS = ['codehilite(css_class=highlight, linenums=False)','extra']
