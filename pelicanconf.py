@@ -26,6 +26,8 @@ AUTHOR_EMAIL = 'dabestmayne@burrito.sh'
 # social
 TWITTER_USERNAME = 's_jchen'
 
+GOOGLE_ANALYTICS = 'UA-47876445-1'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
