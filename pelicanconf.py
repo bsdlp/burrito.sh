@@ -6,6 +6,7 @@ AUTHOR = u'jchen'
 AUTHOR_FULLNAME = u'Jon Chen'
 SITENAME = u'burritos r us'
 SITEURL = 'http://burrito.sh'
+SITELOGOIMG = 'img/burritologo.png'
 
 TIMEZONE = 'Etc/UTC'
 
