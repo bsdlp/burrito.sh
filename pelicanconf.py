@@ -18,7 +18,7 @@ THEME = './theme'
 
 # plugins
 PLUGIN_PATH = './plugins'
-PLUGINS = ['gravatar', 'thumbnailer']
+PLUGINS = ['github_activity', 'thumbnailer']
 
 # gravatar email
 AUTHOR_EMAIL = 'dabestmayne@burrito.sh'
@@ -56,5 +56,8 @@ THUMBNAIL_SIZES = {
     'thumbnail_wide': '635x?',
 }
 
+# markdown extensions for syntax highlighting
 MD_EXTENSIONS = ['codehilite(css_class=highlight, linenums=False)','extra']
+
+GITHUB_ACTIVITY_FEED = 'https://github.com/fly.atom'
 
