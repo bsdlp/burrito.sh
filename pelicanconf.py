@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'jchen'
 AUTHOR_FULLNAME = u'Jon Chen'
-SITENAME = u'burritos r us'
+SITENAME = u'burrito'
 SITEURL = 'http://burrito.sh'
 SITELOGOIMG = 'img/burritologo.png'
 
