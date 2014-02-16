@@ -26,7 +26,7 @@ Let's take a look at what the output looks like for each domain request:
 from linode import api
 linode = api.Api('topsekritkey')
 
-for domain in linode.domain_list():
+for domain in linode.domain.list():
     print domain
 ```
 
@@ -45,7 +45,7 @@ my new master, 127.0.0.1.
 from linode import api
 linode = api.Api('topsekritkey')
 
-for domain in linode.domain_list():
+for domain in linode.domain.list():
 # for each domain entry in the list,
     if domain['TYPE'] == 'slave':
 # check if the domain is a slave entry, as I have some master
