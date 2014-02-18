@@ -16,5 +16,3 @@ CATEGORY_FEED_RSS = 'feeds/%s.rss.xml'
 
 RELATIVE_URLS = False
 
-PLUGINS = ['thumbnailer']
-
