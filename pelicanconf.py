@@ -12,14 +12,12 @@ TIMEZONE = 'Etc/UTC'
 
 DEFAULT_LANG = u'en'
 
-CSS_FILE = 'style.css'
-
 # theme stuff
 THEME = './theme'
 
 # plugins
 PLUGIN_PATH = './plugins'
-PLUGINS = ['github_activity', 'thumbnailer']
+PLUGINS = ['thumbnailer', 'assets']
 
 # gravatar email
 AUTHOR_EMAIL = 'dabestmayne@burrito.sh'
@@ -61,4 +59,6 @@ THUMBNAIL_SIZES = {
 MD_EXTENSIONS = ['codehilite(css_class=highlight, linenums=False)','extra']
 
 GITHUB_ACTIVITY_FEED = 'https://github.com/fly.atom'
+
+WEBASSETS = True
 
