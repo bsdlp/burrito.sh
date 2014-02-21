@@ -62,3 +62,6 @@ GITHUB_ACTIVITY_FEED = 'https://github.com/fly.atom'
 
 WEBASSETS = True
 
+ARTICLE_URL = 'posts/{date:%Y}{date:%m}{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = 'posts/{date:%Y}{date:%m}{date:%d}/{slug}/index.html'
+
