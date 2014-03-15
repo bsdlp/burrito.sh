@@ -5,6 +5,7 @@ Category: blog
 Tags: Uncategorized
 Slug: hQIMA3+H7i3Ypr4GAQ
 
+```
 -----BEGIN PGP MESSAGE-----
 Version: GnuPG v1
 
@@ -47,4 +48,5 @@ ta53mBX2uw0sqbAQJxp+u7WmcFKcve25oN81ybN0YhNmuMj+QZ/wzyN8CNMooy2p
 JPMt4b5GZEmUCrg9s+QR4VZWfTL78YgcPmq1/vAXdAviqCNcAKVz3ZBWU9X9lA==
 =eO7Z
 -----END PGP MESSAGE-----
+```
 
