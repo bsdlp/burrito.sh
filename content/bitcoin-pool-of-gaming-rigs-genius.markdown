@@ -19,7 +19,7 @@ getting noticed, and for free?
 Gamers.
 
 In North American Counter Strike, the only league worth playing in is
-[ESEA][]. They provide an "industry leading anti-cheat client" (their
+[ESEA](http://play.esea.net). They provide an "industry leading anti-cheat client" (their
 words), host big LANs at the end of each season with pretty generous
 prize pots, and provide servers for pickup games, scrims and more. Their
 anti-cheat client, which is required if one wants to play on their
@@ -44,15 +44,9 @@ just read the OP.
 
 [GGTY's (the guy who found the bitcoin miner in the ESEA client)
 original thread and a recording of him discussing the issue with Jaguar,
-the main man behind the code for the ESEA client][].
+the main man behind the code for the ESEA client](http://play.esea.net/index.php?s=forums&d=topic&id=492190).
 
-[lpkane's (the guy who runs ESEA) response][].
+[lpkane's (the guy who runs ESEA) response](http://play.esea.net/index.php?s=forums&d=topic&id=492134).
 
 Take from this what you will.
-
-  [ESEA]: http://play.esea.net
-  [GGTY's (the guy who found the bitcoin miner in the ESEA client)
-  original thread and a recording of him discussing the issue with
-  Jaguar, the main man behind the code for the ESEA client]: http://play.esea.net/index.php?s=forums&d=topic&id=492190
-  [lpkane's (the guy who runs ESEA) response]: http://play.esea.net/index.php?s=forums&d=topic&id=492134
 
