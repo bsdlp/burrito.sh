@@ -5,7 +5,7 @@ Category: blog
 Tags: linux, osx, python, server admin
 Slug: vimluv
 
-[![vim screenshot](./thumbs/vim_thumbnail_wide.png)](./img/vim.png)
+[![vim screenshot](/thumbs/vim_thumbnail_wide.png)](/img/vim.png)
 
 Dat vim doe.
 

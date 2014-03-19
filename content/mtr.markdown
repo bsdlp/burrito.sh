@@ -20,5 +20,5 @@ HOST: garfield                               Loss%   Snt   Last   Avg  Best  Wrs
   8.|-- home.sjchen.net                         0.0%    10    8.0   7.8   7.6   8.0   0.1
 ```
 
-[![mtr demo](./thumbs/mtrdemo_thumbnail_wide.png)](./img/mtrdemo.png)
+[![mtr demo](/thumbs/mtrdemo_thumbnail_wide.png)](/img/mtrdemo.png)
 
