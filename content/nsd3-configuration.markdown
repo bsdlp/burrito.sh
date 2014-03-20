@@ -9,6 +9,8 @@ I've recently gotten around to setting up my own authoritative
 nameservers. So here's some very basic copypasta that should work for
 most people. I'm running debian squeeze in this case.
 
+<!-- PELICAN_END_SUMMARY -->
+
 You need the following packages:
 
 - nsd3

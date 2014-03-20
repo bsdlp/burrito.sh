@@ -10,6 +10,8 @@ netherlands. It does,however, require some effort to get it to the
 latest updates. I will try to explain as best I can how I got mine up
 and running.
 
+<!-- PELICAN_END_SUMMARY -->
+
 Since most providers are still using the 2010.05 iso, this guide will be
 based on that.
 

@@ -10,6 +10,8 @@ anything to go sideways, and so this will be my first time voting, ever.
 I'm quite excited, although I'm not too sure I'm psyched for the
 expected lines at the voting location.
 
+<!-- PELICAN_END_SUMMARY -->
+
 Also, I have a pretty successful minecraft community running now on a
 dedicated server that I configured myself. I'm running craftbukkit,
 murmur, dynmap, craftIRC, phpbb forums, a static homepage, and a word

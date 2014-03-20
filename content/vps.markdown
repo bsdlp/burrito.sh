@@ -10,6 +10,8 @@ private servers, especially low end boxes that go for under \$10 a
 month. A friend of mine had been telling me about prgmr.com's xen vps's,
 and when I finally told myself to start a website, I looked deeper.
 
+<!-- PELICAN_END_SUMMARY -->
+
 *Lowendbox.com / Lowendtalk.com:*
 LEB/LET is the 1-2 punch behind the low end vps market. The main rule
 of LEB is that any VPS offers posted has to be under \$7. The deals go

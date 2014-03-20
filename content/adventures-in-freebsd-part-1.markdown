@@ -14,6 +14,8 @@ hw.ncpu: 2
 4GB of ram  
 2TB disk (no raid)
 
+<!-- PELICAN_END_SUMMARY -->
+
 For \~\$140 / year.
 
 This is a pretty good deal. I don't really do anything cpu-intensive,

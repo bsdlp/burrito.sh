@@ -18,6 +18,8 @@ getting noticed, and for free?
 
 Gamers.
 
+<!-- PELICAN_END_SUMMARY -->
+
 In North American Counter Strike, the only league worth playing in is
 [ESEA](http://play.esea.net). They provide an "industry leading anti-cheat client" (their
 words), host big LANs at the end of each season with pretty generous

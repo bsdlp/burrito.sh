@@ -7,7 +7,9 @@ Slug: teamspeak3-server-management
 
 So I've been hosting some friends' teamspeak3 servers on the extra
 resources I have on my VPS, and with a quick google, here's what I've
-found extremely useful for managing ts3 virtual servers via telnet:
+found extremely useful for managing ts3 virtual servers via telnet.
+
+<!-- PELICAN_END_SUMMARY -->
 
 So for this guide, we will be using the following bogus information:  
 Server IP: ts3.test.com  

@@ -11,6 +11,8 @@ Slug: dnssec-pain
 
 Today I was just hacking away at updating [libcloud](https://libcloud.apache.org/) support for [Linode](https://www.linode.com) [NodeBalancers](https://www.linode.com/nodebalancers/) when I realized that some of my emails and stuff weren't working correctly.
 
+<!-- PELICAN_END_SUMMARY -->
+
 My first thought was that the Linode that hosts most of my stuff ran into some weird issue. But connectivity was fine and services seemed to be running ok. At that point I turned to mtr to try to figure out what's up.
 
 I tried to do an mtr, but it took a while, so I figured I'd check if the things were resolving correctly.

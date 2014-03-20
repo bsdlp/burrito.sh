@@ -10,6 +10,8 @@ publicly committed ssh private keys. Then, people get [a little worked
 up][] about how GitHub should add a default gitignore or something to
 prevent people from committing stuff they shouldn't commit.
 
+<!-- PELICAN_END_SUMMARY -->
+
 Why?
 
 GitHub already has a helpful guide for how to [remove committed

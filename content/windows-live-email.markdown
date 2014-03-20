@@ -10,6 +10,8 @@ good alternative for gmail, now that google apps is now "free" but not
 really free, and might be nuked at any time. So, how do you host your
 domain's email on outlook?
 
+<!-- PELICAN_END_SUMMARY -->
+
 Hit up <https://domains.live.com/Signup/SignupDomain.aspx>, and follow
 the instructions. Make sure "Set up Outlook.com for my domain" is
 checked.

@@ -8,6 +8,8 @@ Slug: new-pgp-key
 Here's my new pgp key for sjchen(at)sjchen.com:  
 You can also grab it from the major keyservers like
 <http://pgp.mit.edu>.  
+
+<!-- PELICAN_END_SUMMARY -->
   
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK----- Version: GnuPG v2.0.18 (GNU/Linux)

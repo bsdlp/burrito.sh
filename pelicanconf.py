@@ -16,7 +16,7 @@ THEME = './theme'
 
 # plugins
 PLUGIN_PATH = './plugins'
-PLUGINS = ['thumbnailer', 'assets']
+PLUGINS = ['assets', 'summary', 'thumbnailer']
 
 # gravatar email
 AUTHOR_EMAIL = 'dabestmayne@burrito.sh'

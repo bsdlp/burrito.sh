@@ -8,6 +8,9 @@ Slug: rc-d-brain-start
 Waking up in the mornings at 7am = not exactly fun at all, especially
 when you've just lost an hour over the weekend. This upcoming week, I'm
 hoping to finish version 0.2 of addpisg.sh.  
+
+<!-- PELICAN_END_SUMMARY -->
+
 This would essentially mean that addpisg would be able completely
 automate adding a new channel to pisg and make it display on the web
 server. It still will not be able to do any extra options, like ignoring

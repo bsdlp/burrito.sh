@@ -16,6 +16,8 @@ I assume that you've already [set up your Linode account and deployed your
 first Linode using Debian](https://library.linode.com/getting-started). So,
 let's get started!
 
+<!-- PELICAN_END_SUMMARY -->
+
 ## Installation:
 
 Firstly, make sure your Linode is up to date:
