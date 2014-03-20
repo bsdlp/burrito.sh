@@ -33,21 +33,21 @@ When installing `openswan`, you'll be prompted to configure openswan to use
 certificate authentication. You can simply have `openswan` do the needful and
 create a self-signed cert for you.
 
-[![openswan configuration step 1](/thumbs/openswan1.png)](/img/openswan1.png)
+[![openswan configuration step 1](/thumbs/openswan1_thumbnail_wide.png)](/img/openswan1.png)
 
-[![openswan create cert](/thumbs/openswan2.png)](/img/openswan2.png)
+[![openswan create cert](/thumbs/openswan2_thumbnail_wide.png)](/img/openswan2.png)
 
-[![openswan rsa key length](/thumbs/openswan3.png)](/img/openswan3.png)
+[![openswan rsa key length](/thumbs/openswan3_thumbnail_wide.png)](/img/openswan3.png)
 
-[![tell openswan to do it](/thumbs/openswan4.png)](/img/openswan4.png)
+[![tell openswan to do it](/thumbs/openswan4_thumbnail_wide.png)](/img/openswan4.png)
 
-[![set cert country code](/thumbs/openswan5.png)](/img/openswan5.png)
+[![set cert country code](/thumbs/openswan5_thumbnail_wide.png)](/img/openswan5.png)
 
-[![set state/province](/thumbs/openswan6.png)](/img/openswan6.png)
+[![set state/province](/thumbs/openswan6_thumbnail_wide.png)](/img/openswan6.png)
 
-[![set locality](/thumbs/openswan7.png)](/img/openswan7.png)
+[![set locality](/thumbs/openswan7_thumbnail_wide.png)](/img/openswan7.png)
 
-[![set common name](/thumbs/openswan8.png)](/img/openswan8.png)
+[![set common name](/thumbs/openswan8_thumbnail_wide.png)](/img/openswan8.png)
 
 We're done; that was easy!
 
