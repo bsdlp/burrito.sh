@@ -57,8 +57,6 @@ THUMBNAIL_SIZES = {
 # markdown extensions for syntax highlighting
 MD_EXTENSIONS = ['codehilite(css_class=highlight, linenums=False)','extra']
 
-GITHUB_ACTIVITY_FEED = 'https://github.com/fly.atom'
-
 WEBASSETS = True
 
 ARTICLE_URL = 'posts/{date:%Y}{date:%m}{date:%d}/{slug}/'
