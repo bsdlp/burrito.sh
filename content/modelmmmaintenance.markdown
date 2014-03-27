@@ -39,8 +39,8 @@ obviously don't need to buy them from Amazon, and they are not affiliate links.
 
 That's pretty much all you need.
 
-At this point, you may wish to do your put your laundry in the washer, making
-sure that at least one pillowcase is in the mix.
+At this point, you may wish to put your laundry in the washer, making sure 
+that at least one pillowcase is in the mix.
 
 ## Disassembly
 
