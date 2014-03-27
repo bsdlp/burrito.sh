@@ -44,8 +44,8 @@ that at least one pillowcase is in the mix.
 
 ## Disassembly
 
-First things first, flip over the board and use the nut driver to remove the
-four nuts at the top of the back of the board.
+Flip over the board and use the nut driver to remove the four nuts at the top 
+of the back of the board.
 
 The next thing you want to do when disassembling the Model M is to pull off
 the keycaps. Use the keycap puller, wrap the arms around a key, turn a bit
