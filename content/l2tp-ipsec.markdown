@@ -5,6 +5,9 @@ Category: blog
 Tags: server admin, tutorial, linux
 Slug: l2tp-ipsec
 
+[![tunnel](/thumbs/l2tpipsectunnel_thumbnail_wide.jpg)](/img/l2tpipsectunnel.jpg)
+
+<!-- PELICAN_BEGIN_SUMMARY -->
 In many [cases where OpenVPN can be detected and
 banned](https://github.com/OpenVPN/openvpn/pull/3), L2TP/IPSEC can become a
 viable alternative for tunnelling traffic. Unfortunately, L2TP/IPSEC is not as
@@ -15,7 +18,6 @@ L2TP/IPSEC using a Linode running Debian Wheezy.
 I assume that you've already [set up your Linode account and deployed your
 first Linode using Debian](https://library.linode.com/getting-started). So,
 let's get started!
-
 <!-- PELICAN_END_SUMMARY -->
 
 ## Installation:
