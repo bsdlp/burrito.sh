@@ -101,8 +101,7 @@ ldapadd -x -D cn=admin,dc=serv,dc=pw -W -f <username>.ldif
 Set a password for the user:
 
 ```
-ldappasswd -x -D cn=admin,dc=serv,dc=pw -W -S
-uid=<username>,ou=users,dc=serv,dc=pw
+ldappasswd -x -D cn=admin,dc=serv,dc=pw -W -S uid=<username>,ou=users,dc=serv,dc=pw
 ```
 
 You can check if things worked correctly with `ldapsearch`:
