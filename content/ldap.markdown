@@ -5,7 +5,7 @@ Category: blog
 Tags: linux
 Slug: ldap-quickstart
 
-[![](/thumbs/ldap_thumbnail_wide.jpg)](/img/ldap.jpg)
+[![ldap header image](/thumbs/ldap_thumbnail_wide.jpg)](/img/ldap.jpg)
 
 ## Quickstart notes for LDAP:
 
