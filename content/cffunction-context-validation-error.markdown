@@ -15,9 +15,11 @@ So you're hacking on some coldfusion.
 > by adding `</cffunction>`. If the body of the tag is empty, you can use the
 > shortcut `<cffunction …/>`.
 
+<!-- PELICAN_BEGIN_SUMMARY -->
 If you have your `<cffunction>` tag somewhere to start your function, and then
 some `<cfarguments>` jawns to define function variables, and you've made sure
 that you've got a closing `</cffunction>` tag, then you've probably got
 something in between your `<cffunction>` tag and your `<cfarguments>` tags.
+<!-- PELICAN_END_SUMMARY -->
 
 Woohoo non-obvious errors.
