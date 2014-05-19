@@ -2,7 +2,7 @@ Title: LDAP Quickstart
 Date: 2014-05-10 15:29
 Author: jchen
 Category: blog
-Tags: linux
+Tags: linux, devops
 Slug: ldap-quickstart
 
 [![ldap header image](/thumbs/ldap_thumbnail_wide.jpg)](/img/ldap.jpg)

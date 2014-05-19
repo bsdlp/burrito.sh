@@ -2,7 +2,7 @@ Title: cffunction context validation error
 Date: 2014-05-10 15:29
 Author: jchen
 Category: blog
-Tags: linux
+Tags: errors, coldfusion, dev
 Slug: cffunction-context-error
 
 [![cffunction context validation error](/thumbs/cffunction_context_validation_thumbnail_wide.png)](/img/cffunction_context_validation.png)
