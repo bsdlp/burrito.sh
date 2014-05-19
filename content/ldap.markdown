@@ -9,11 +9,13 @@ Slug: ldap-quickstart
 
 ## Quickstart notes for LDAP:
 
+<!-- PELICAN_BEGIN_SUMMARY -->
 LDAP seems to be the "best" solution for a centralized authentication
 management system. However, it is also ridiculously overcomplicated. If I had
 bigger balls, I would want to write a simplified version. Unfortunately, I
 opted to write a quick blog post so I can keep a quick refresher course on the
 crap that is LDAP configuration.
+<!-- PELICAN_END_SUMMARY -->
 
 ### TL;DR:
 
