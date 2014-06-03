@@ -6,6 +6,7 @@ AUTHOR = u'jchen'
 AUTHOR_FULLNAME = u'Jon Chen'
 SITENAME = u'burrito'
 SITEURL = 'http://burrito.sh'
+SITETAGLINE = 'Excelling at mediocrity.'
 
 TIMEZONE = 'Etc/UTC'
 
