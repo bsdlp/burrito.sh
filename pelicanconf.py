@@ -39,6 +39,9 @@ DISPLAY_MENUITEMS_ON_MENU = False
 DISPLAY_NAVBAR = False
 DISPLAY_PAGES_ON_MENU = True
 
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
+
 DEFAULT_DATE_FORMAT = ('%Y-%m-%d')
 
 # Uncomment following line if you want document-relative URLs when developing
