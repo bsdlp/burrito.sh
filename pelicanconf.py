@@ -42,6 +42,8 @@ DISPLAY_PAGES_ON_MENU = True
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
 
+OUTPUT_RETENTION = ("keybase.txt")
+
 DEFAULT_DATE_FORMAT = ('%Y-%m-%d')
 
 # Uncomment following line if you want document-relative URLs when developing

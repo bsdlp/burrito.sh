@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/jchen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://burrito.sh
+  * I am jchen (https://keybase.io/jchen) on keybase.
+  * I have a public key with fingerprint 2218 7D82 8B68 B56E DB85  94A3 35D9 43F7 134D 1A6D
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.4.7"
+        },
+        "key": {
+            "fingerprint": "22187d828b68b56edb8594a335d943f7134d1a6d",
+            "host": "keybase.io",
+            "key_id": "35D943F7134D1A6D",
+            "uid": "d5b6730898307c32699bd728b530a400",
+            "username": "jchen"
+        },
+        "merkle_root": {
+            "ctime": 1402926761,
+            "hash": "2dc9adee500df04c295c43305c35fb5386d842b944a12dca7c0902e68b01256f3f9bc2f65ee29f6a44c62845822bae0b9cbee9bd87f7d1ec3e55d7116fd84d51",
+            "seqno": 18774
+        },
+        "service": {
+            "hostname": "burrito.sh",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1402926974,
+    "expire_in": 157680000,
+    "prev": "edd0bdb95d51ca2aeaff05a8f0272c3c9b82ec33e748d6f115cf9b2d86ee59be",
+    "seqno": 20,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVkn1QFVUYxu8FFLEBTCY/kFFbSebmnevu2W+mQVR0AqIIjcAs3LN7FtYLu7R3
+IeF6jaESgYYhHcNmiI/RYTBkhD7AsBJBiyT8Q2mKykGJZBIqNBqyRuqs2ZT719nz
+/s7zPs97Tm14sCPIyY5sno1Kiy5wDv4IHdsaZvf5CWgoJUS8n5DzNaRb9kqXChAR
+T3hRCZR8yKMZq3VDQZ7dvtX3GDdRjEyfZuiYIj2MhycCbhu3D6uanovMQlOztQgA
+KIFXBCBAToAshxQosCIj0TSriAyt8hTNKJTEKVgyz/BZ93Ul7mrmaArepdkkzG+1
++SRqI5eEa0V3CwoLOZ4mBVGgSV6mASeKUOFxP5YmJYYkbdCHzHuRdst5SLfNFiDT
+m49yTMO4m1i2NLtOMSQQAcdzFLYj+fLsAIosSgpCLEkqKsnIQGRlhqZJVqZZFTcR
+OEVgABQZRqIwK/EyKZIA4bQkBVhOpVURykDlWISAqHISw8gcEBhWAABKiISiDBHC
+lgVe5RUKyTRiWYWnKE7FugpLYf8+9KJuYHMCzzMB+9cs1mRk27ZHdi8ZLDJNzTI8
+2LSbKDQNy5CNfLyfZ1mF8XZiq6TQ5l5CMOcfhVaUAzVdwdf1//ukMHr/NESecRNo
+T6FmohzNJlieE0j82X1QMdZEikJCBYos9itLQEKSqpKsJKgk4IFMyyIUAE5GI54R
+FE6lKFbGUwGKwOG5ihD9lxFgUUvKxZo+LVeXrCITEYHKoJgQhzPIMX9ekP1iHQvD
+Fv37jF+9GjnnimiMLRl9EgWe8//ZkeuqHMi7MS1t2tTs8iZeJKbS5yKe/kH9JdNb
+fmrjCipv2Xjk4q9upI+3ZdToo9l8z/F1crt7x52CqcPfdfvnKmePe2JXHHMFQMrR
+y7evwqf2Jwz0z3xRyFad+LIVVCHjWEVHwipxSUX1vgfryp5w3l6VWGNmdF0LlKX2
+1l45+9h7267wy9np+r2wfl3/hm+zqjv1lm9SxtwfVG+eOvNWz8eyd35Z+TPJGUbo
+Jf3dXdFVJWHxp/dWrDwUWTV7IfvkrYxPxofap4bH/NNhuwJRR9fNwI5L3Rfg+VV3
+5m3tun79+tsHX58QR4KP9KUF1zcrv83zXYz4VW3ZG12wnnjlM+/YuUWge7jG2ZO+
+46Ze1/fyUFPEYWe3r+nR4J/6nbHVO2MWjpzOaI3xJZyvmnnz60p/S3H8hNAVYyRr
+a7oagkoeKh6KeweUHntEW5pGNiwNT1lArBR6P5QSRx9Ic0a+n2j9QaVOhpYKC5Ko
+odtx5S0H13JW0+CeiaGd69M7E3/O3NC2fMvstZOO0JGbsc1nQrq3D5unZmdS1sT3
+e1y9IaSefbbpSEXZgXqOLPXu9/a9UKs2Wrfa36gbXPw4/L18/5LO6QxXxMC5h5dd
+/mv7WJxrIOr52sZDk59ucdRmbmvgpta2ff5R3XB4isM/x2Vt/j5r0n0iNY54Nvk1
+/98=
+=QVcG
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jchen
+
+==================================================================
