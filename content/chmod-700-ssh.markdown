@@ -4,7 +4,6 @@ Author: jchen
 Category: blog
 Tags: bash, linux
 Category: blog
-Tags: ssh config permissions chmod
 Slug: chmod-700-ssh
 
 So I keep forgetting that you need the following permissions for \~/.ssh

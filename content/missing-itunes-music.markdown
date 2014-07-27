@@ -4,7 +4,6 @@ Author: jchen
 Category: blog
 Tags: applications, iTunes
 Category: blog
-Tags: exclamation mark, files, help, itunes, itunes library, library, missing, missing files, music
 Slug: missing-itunes-music
 
 *SO MANY EXCLAMATION MARKS ON MY iTUNES LIBRARY! WHAT DO I DO?*
