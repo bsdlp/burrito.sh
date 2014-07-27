@@ -39,12 +39,12 @@ under `/srv/tftp`:
 
 `pxelinux.cfg` is a directory as it contains multiple configuration files for
 pxelinux. When a server asks pxelinux to serve up the install bits, pxelinux
-will first look for the file as the IP address of the target server in
+will first look for the file as the MAC address of the target server in
 uppercase hex. If that file doesn't exist, then it'll pop a digit from the end
 and look for that file. If all fails, it'll default to the file named
 `default`.
 
-Since we don't know what the IP addresses of the servers will be right now,
+Since we don't know what the MAC addresses of the servers will be right now,
 we're just going to name the file `default`.
 
 Drop the following bits into the file:
