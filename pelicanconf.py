@@ -16,7 +16,7 @@ DEFAULT_LANG = u'en'
 THEME = './theme'
 
 # plugins
-PLUGIN_PATH = './plugins'
+PLUGIN_PATHS = ['./plugins']
 PLUGINS = ['assets', 'summary', 'thumbnailer']
 
 # gravatar email
@@ -67,4 +67,3 @@ WEBASSETS = True
 
 ARTICLE_URL = 'posts/{date:%Y}{date:%m}{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'posts/{date:%Y}{date:%m}{date:%d}/{slug}/index.html'
-
