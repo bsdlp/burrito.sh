@@ -16,8 +16,8 @@ DEFAULT_LANG = u'en'
 THEME = './theme'
 
 # plugins
-PLUGIN_PATHS = ['./plugins']
-PLUGINS = ['assets', 'summary', 'thumbnailer']
+PLUGIN_PATHS = ['./plugins', './plugins.d']
+PLUGINS = ['assets', 'summary', 'thumbnailer', 'pelican-dynamic']
 
 # gravatar email
 AUTHOR_EMAIL = 'dabestmayne@burrito.sh'

@@ -4,3 +4,6 @@
 [submodule "theme"]
     path = theme
     url = git@github.com:fly/burrito.git
+[submodule "plugins.d/pelican_dynamic"]
+	path = plugins.d/pelican_dynamic
+	url = https://github.com/wrobstory/pelican_dynamic.git
