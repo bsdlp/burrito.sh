@@ -16,7 +16,7 @@ pelican==3.4.0
 pep8==1.5.7
 pyflakes==0.8.1
 python-dateutil==2.2
-pytz==2014.4
+pytz==2014.7
 six==1.7.3
 virtualenv==1.11.6
 webassets==0.10.1
