@@ -4,6 +4,6 @@ Category: pages
 Author: Jon Chen
 Summary: List of my work
 Styles: octicons.min.css, github-activity-0.1.0.min.css
-Scripts: mustache.min.js, github-activity-0.1.0.min.js
+Scripts: jquery-1.11.1.min.js, mustache.min.js, github-activity-0.1.0.min.js
 
 <div id="feed"></div>
