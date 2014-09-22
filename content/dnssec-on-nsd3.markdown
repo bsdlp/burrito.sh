@@ -98,11 +98,7 @@ zonefile:
 
 Then you'll want to actually sign the zone:
 
-    # /usr/local/sbin/dnssec-signzone    
-   -o example.com    
-   -k /usr/local/etc/nsd/keys/example-com/Kexample.com.+005+51472   
-   /usr/local/etc/nsd/zones/example.com.zone   
-   /usr/local/etc/nsd/keys/example-com/Kexample.net.+005+43917.key
+    # /usr/local/sbin/dnssec-signzone -o example.com -k /usr/local/etc/nsd/keys/example-com/Kexample.com.+005+51472 /usr/local/etc/nsd/zones/example.com.zone /usr/local/etc/nsd/keys/example-com/Kexample.net.+005+43917.key
 
 After that, just rebuild your NSD db and reload to put it into effect:
 
