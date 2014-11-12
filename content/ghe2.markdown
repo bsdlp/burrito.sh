@@ -15,6 +15,8 @@ awesome. However, it only comes in an
 deployable [AMI](https://en.wikipedia.org/wiki/Amazon_Machine_Image). In order
 to run the jawn on a Linode (or anywhere else), let's pull the raw image out of
 the provided `.ova`.
+
+**warning**: Not supported by GitHub, things may not work as expected!
 <!-- PELICAN_END_SUMMARY -->
 
 First things first, download the `.ova` file from [your GitHub Enterprise
@@ -28,7 +30,7 @@ Linode](https://www.linode.com/docs/getting-started#provisioning-your-linode),
 something big enough (needs at least 80GB of disk space for the rootfs). I
 chose a Linode 16GB. I created a 100GB disk image for the rootfs, a 10GB
 disk image for the scratch disk, and a 512MB swap disk. You'll also need a
-separate ext4 disk image for user data. Make it at least 10GB, or GHE will
+separate raw disk image for user data. Make it at least 10GB, or GHE will
 complain.
 
 Start your Linode in [rescue
