@@ -27,7 +27,9 @@ directly onto your Linode (I'll let you figure out how to do that).
 Linode](https://www.linode.com/docs/getting-started#provisioning-your-linode),
 something big enough (needs at least 80GB of disk space for the rootfs). I
 chose a Linode 16GB. I created a 100GB disk image for the rootfs, a 10GB
-disk image for the scratch disk, and a 512MB swap disk.
+disk image for the scratch disk, and a 512MB swap disk. You'll also need a
+separate ext4 disk image for user data. Make it at least 10GB, or GHE will
+complain.
 
 Start your Linode in [rescue
 mode](https://www.linode.com/docs/troubleshooting/rescue-and-rebuild) with all
@@ -96,19 +98,21 @@ kernel /boot/vmlinuz-3.2.0-70-virtual root=/dev/xvda console=/dev/hvc0 ro
 ```
 
 Edit `/etc/fstab` so that the rootfs is loaded from `/dev/xvda` instead of
-`UUID=`:
+`UUID=`, to reflect where user data disk image is located, and swap:
 
 ```
-  # /etc/fstab: static file system information.
-  # <file system>                                 <mount point>   <type>  <options>       <dump>  <pass>
-  proc                                            /proc           proc    defaults        0       0
-  /dev/xvda                                       /               ext4    defaults        0       0
-  LABEL=ghe_user_data                             /data/user      ext4    defaults,noauto,noatime,nobootwait        0       2
+# /etc/fstab: static file system information.
+# <file system>  <mount point>   <type>  <options>       <dump>  <pass>
+proc             /proc           proc    defaults        0       0
+/dev/xvda        /               ext4    defaults        0       0
+/dev/xvdb        /data/user      ext4    defaults,noauto,noatime,nobootwait        0       2
+/dev/xvdc        none            swap    defaults        0       0
 ```
 
 # Boot it up!
 
 Create a [config
 profile](https://www.linode.com/docs/migrate-to-linode/disk-images/disk-images-and-configuration-profiles),
-mapping xvda to your rootfs and xvdb to your swap image. Make sure you chose
-`pv-grub-x86_64` in the kernel dropdown, and save. Boot it up, and you should be good to go!
+mapping xvda to your rootfs, xvdb to your user data disk image, and xvdc to
+swap. Make sure to choose `pv-grub-x86_64` in the kernel dropdown, and save.
+Boot it up, and you should be good to go!
