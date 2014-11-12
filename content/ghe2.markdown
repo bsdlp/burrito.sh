@@ -92,7 +92,18 @@ use GHE's included custom kernel:
 timeout 5
 title GitHub Enterprise 2.0.0
 root (hd0)
-kernel /boot/vmlinuz-3.2.0-70-virtual root=/dev/xvda ro quiet
+kernel /boot/vmlinuz-3.2.0-70-virtual root=/dev/xvda console=/dev/hvc0 ro
+```
+
+Edit `/etc/fstab` so that the rootfs is loaded from /dev/xvda instead of
+`UUID=`:
+
+```
+  # /etc/fstab: static file system information.
+  # <file system>                                 <mount point>   <type>  <options>       <dump>  <pass>
+  proc                                            /proc           proc    defaults        0       0
+  /dev/xvda                                       /               ext4    defaults        0       0
+  LABEL=ghe_user_data                             /data/user      ext4    defaults,noauto,noatime,nobootwait        0       2
 ```
 
 # Boot it up!
