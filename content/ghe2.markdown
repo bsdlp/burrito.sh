@@ -84,9 +84,20 @@ Beta](https://forum.linode.com/viewtopic.php?f=26&t=11180) to store the rootfs
 you just created somewhere safe for possible redeployment later without a
 headache.
 
+Mount your rootfs with `mount /media/xvda` (remember to use the actual block
+device for your rootfs), and drop this into `/media/xvda/boot/grub/menu.lst` to
+use GHE's included custom kernel:
+
+```
+timeout 5
+title GitHub Enterprise 2.0.0
+root (hd0)
+kernel /boot/vmlinuz-3.2.0-70-virtual root=/dev/xvda ro quiet
+```
+
 # Boot it up!
 
 Create a [config
 profile](https://www.linode.com/docs/migrate-to-linode/disk-images/disk-images-and-configuration-profiles),
-mapping xvda to your rootfs and xvdb to your swap image. Make sure you're using
-the latest 64bit kernel, and save. Boot it up, and you should be good to go!
+mapping xvda to your rootfs and xvdb to your swap image. Make sure you chose
+`pv-grub-x86_64` in the kernel dropdown, and save. Boot it up, and you should be good to go!
