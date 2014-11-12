@@ -95,7 +95,7 @@ root (hd0)
 kernel /boot/vmlinuz-3.2.0-70-virtual root=/dev/xvda console=/dev/hvc0 ro
 ```
 
-Edit `/etc/fstab` so that the rootfs is loaded from /dev/xvda instead of
+Edit `/etc/fstab` so that the rootfs is loaded from `/dev/xvda` instead of
 `UUID=`:
 
 ```
