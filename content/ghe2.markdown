@@ -5,7 +5,7 @@ Category: blog
 Tags: linux
 Slug: ghe2-on-linode
 
-[![model m grease](/thumbs/modelmgrease_thumbnail_wide.jpg)](/img/modelmgrease.jpg)
+[![GitHub Logo](/img/GitHub_Logo.png)](https://enterprise.github.com)
 
 <!-- PELICAN_BEGIN_SUMMARY -->
 The new [GitHub Enterprise
