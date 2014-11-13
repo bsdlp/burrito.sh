@@ -117,4 +117,45 @@ Create a [config
 profile](https://www.linode.com/docs/migrate-to-linode/disk-images/disk-images-and-configuration-profiles),
 mapping xvda to your rootfs, xvdf to your user data disk image, and xvdc to
 swap. Make sure to choose `pv-grub-x86_64` in the kernel dropdown, and save.
-Boot it up, and you should be good to go!
+Boot it up, and connect to your Linode's IP address in the browser. You should
+see a screen saying that a block device needs to be added to the instance in
+order for the installation process to continue.
+
+This is the `/data/user` volume, and I'm not sure why it needs to be an
+external block device, but fine.
+
+# Adding a `/data/user` volume
+
+You should already have a raw disk device with at least 10GB of space at
+`/dev/xvdf`. You'll need to get into the box via ssh using the `admin` account
+and run a modified version of `/user/local/share/enterprise/ghe-storage-init`.
+
+First, reboot your Linode again into rescue mode. Log in via LISH, set a
+password for the root user, and start the ssh daemon. Close out LISH, log in
+via SSH. Mount your rootfs (`mount /media/xvda`), and add your ssh pubkey to
+`/home/admin/.ssh/authorized_keys`.
+
+Reboot back into your configuration profile, and log into the admin account:
+
+```
+ssh -p 122 admin@<your.ghe.address>
+```
+
+**WARNING! THIS WILL PROBABLY VOID YOUR WARRANTY (IS THERE ONE?)**
+
+Note that at this point you'll need to hack away at
+`/usr/local/share/enterprise/ghe-storage-init` to make it detect `/dev/xvdf` as
+your DEVICE. Make sure you back up the script before you edit it. Run the
+script, and the page in your browser should reload to continue to the next step
+in the installation process. I purposely left out what parts to specifically
+DELETE in the script, but I'll leave that as an exercise for the reader.
+
+# That's it!
+
+You should be able to continue following the "[Provisioning and
+Installation](https://help.github.com/enterprise/2.0/admin-guide/installing/)"
+guide and/or the
+[Migration](https://help.github.com/enterprise/2.0/admin-guide/migrating/)
+guide if you're coming from an older version.
+
+Good luck, and have fun.
